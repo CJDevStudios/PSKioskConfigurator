@@ -1,0 +1,1 @@
+reg import "%~dp0DisableKiosk.reg"
